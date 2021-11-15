@@ -2,3 +2,4 @@ Hello there
 Hi what up
 Editing from bug fix branch
 2nd commit from big fix branch
+3rd commit from bug fix branch
