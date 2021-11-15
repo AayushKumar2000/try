@@ -4,3 +4,6 @@ Editing from bug fix branch
 2nd commit from big fix branch
 3rd commit from bug fix branch
 4th commit from bug fix branch
+Commit from master branch
+2nd commit from master branch
+
